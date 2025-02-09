@@ -1,0 +1,260 @@
+@media only screen and (min-width:320px) and (max-width:576px) {
+    body {
+        padding: 0%;
+        margin: 0%;
+        background-color: purple;
+
+    }
+
+    nav {
+        display: flex;
+        flex-direction: column;
+        margin: 0px;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding: 10px 0px;
+    }
+
+    .section1 {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0px;
+        margin-left: 10px;
+        text-align: center;
+        width: 100%;
+
+
+    }
+
+    .section1 img {
+        height: 300px;
+        width: 300px;
+        margin-left: 35px;
+    }
+
+    .section1 p {
+        line-height: normal;
+
+
+    }
+
+    .data h2 {
+        text-align: center;
+        padding-left: 20px;
+    }
+
+    .para1 {
+        width: 80%;
+        margin-left: 50px;
+    }
+
+    .btn2 {
+        margin-left: 20px;
+    }
+
+
+    .heading1 h2 {
+        text-align: center;
+        margin-left: 55px;
+        ;
+
+    }
+
+
+
+    .section2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+
+    }
+
+    .img-ab {
+        height: 300px;
+        width: 300px;
+    }
+
+    .data-ab {
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+
+    .step {
+        width: 100%;
+        padding: 0;
+
+    }
+
+    .icon {
+        width: 100%;
+
+    }
+
+    .section3 {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+    }
+
+    .services {
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        padding: 10px 30px;
+
+    }
+
+    .section5 {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        padding: 10px 30px;
+    }
+
+    .test {
+        width: 100%;
+    }
+
+
+    .section-info {
+        width: 100%;
+        margin: 0;
+        padding: 0px 0px;
+    }
+
+    .section6 {
+        display: flex;
+        flex-direction: column;
+        margin: 0;
+        padding: 0;
+    }
+
+    form {
+        margin-left: 70px;
+        padding: 0;
+    }
+
+    .btn7 {
+        display: flex;
+        justify-content: center;
+    }
+
+    input {
+        width: 150%;
+        margin: 0;
+        padding: 10px 40px;
+    }
+
+    footer {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer1 {
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        padding: 10px 30px;
+    }
+
+    .foot-icons {
+        text-align: center;
+    }
+
+    .contant img {
+        height: 300px;
+        width: 300px;
+    }
+}
+
+
+@media only screen and (min-width:576px) and (max-width:768px) {
+    .section1 {
+        margin-top: 50px;
+    }
+
+    .img1 {
+        height: 250px;
+        width: 250px;
+        margin-top: 50px;
+    }
+
+    .data {
+        margin-top: 0;
+    }
+
+    .para1 {
+        padding-right: 50px;
+        line-height: normal;
+    }
+
+    .img-ab {
+        height: 260px;
+        width: 260px;
+    }
+
+    .data-ab h2 {
+        margin: 0;
+        padding: 0;
+
+    }
+
+    .data-ab p {
+        line-height: normal;
+    }
+
+    .step {
+        text-align: center;
+        border-radius: 20px;
+        padding: 20px 5px;
+        width: 33.3%;
+        box-shadow: 1px 1px 5px #A020F0;
+    }
+
+
+    .contant {
+        width: 100%;
+    }
+
+    .contant img {
+        width: 250px;
+        height: 250px;
+    }
+
+    .form {
+        width: 100%;
+    }
+
+    form {
+        margin: 0;
+        padding: 0;
+    }
+
+    .btn7 {
+        margin: 0;
+        margin-top: 10px;
+    }
+
+    footer{
+        gap: 20px;
+        padding: 20px 50px;
+    }
+
+    .footer1{
+        padding: 20px 50px;
+    }
+
+    .foot-icons{
+        padding-left: 50px;
+    }
+}
